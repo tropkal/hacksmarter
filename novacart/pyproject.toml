@@ -1,0 +1,10 @@
+[project]
+name = "sqli-script"
+version = "0.1.0"
+description = "SQLi script for the NovaCart CTF on HackSmarter."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "requests>=2.34.2",
+]
