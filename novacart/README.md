@@ -2,7 +2,7 @@
 
 ```
 $ git clone https://github.com/tropkal/hacksmarter
-$ cd hacksmarter
+$ cd hacksmarter/novacart
 $ uv sync
 $ uv run sqli.py
 ```
