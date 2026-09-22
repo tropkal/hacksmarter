@@ -7,4 +7,4 @@ $ uv sync
 $ uv run sqli.py
 ```
 
-## Come up with good mssql queries; chain them and you'll get some hashes, some of which will crack.
+### Come up with good mssql queries; chain them and you'll get some hashes, some of which will crack.
